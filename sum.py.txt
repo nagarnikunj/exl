@@ -1,0 +1,4 @@
+numbers = [3, 7, 1, 8, 5, 9, 2, 6, 4, 10]  # Example list of 10 numbers
+total = sum(numbers)
+
+print("The sum of the 10 numbers is:", total)
